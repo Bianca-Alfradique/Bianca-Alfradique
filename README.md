@@ -18,9 +18,8 @@ Bem vindo(a) ao meu perfil GitHub👋🏽
   
     <div style="display: inline_bock"><br>
   
-<img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" />
-<img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-    
+<img align="center" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" />
+<img align="center" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 
   </div>
 
@@ -30,7 +29,10 @@ Bem vindo(a) ao meu perfil GitHub👋🏽
    
   <a href = "mailto:biancasampaioalfradique@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/biancaalfradique" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 	 
-  <a href="https://www.linkedin.com/in/bianca-alfradique-7758a4116/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>     
+  <a href="https://www.linkedin.com/in/bianca-alfradique-7758a4116/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+   
+![Snake animation](https://github.com/Bianca-AlfradiqueBianca-Alfradique/blob/output/github-contribution-grid-snake.svg)
    
  </div>
 
+  
